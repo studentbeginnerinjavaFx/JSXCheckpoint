@@ -1,0 +1,9 @@
+.title {
+    color : red;
+}
+
+img{
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+}
